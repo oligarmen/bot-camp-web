@@ -1,0 +1,66 @@
+BOT CAMP PROPRIETARY LICENSE (ALL RIGHTS RESERVED)
+
+Copyright (c) 2026 Jesús D. García. All rights reserved.
+
+Spanish version: see LICENCIA.md. The Spanish version prevails in case of any discrepancy.
+
+1. OWNERSHIP
+   "Bot Camp" (the "Software") includes the source code, the compiled applications, the game design and
+   rules, the 3D character and obstacle definitions, the icon, the logo and other artwork, the texts,
+   the translations and the documentation. All of it is the exclusive property of the copyright
+   holder named above (the "Holder"). Third-party components included in the Software keep their own
+   licenses, listed in THIRD_PARTY_NOTICES.md; this license does not change those licenses.
+
+2. NO LICENSE BY DEFAULT
+   No right or license is granted to you except those expressly granted in this document or in a
+   separate written agreement signed by the Holder. Being able to see, download or run the Software
+   (for example because it is published on a website or a code-hosting service) does not grant any right.
+
+3. PERMITTED USE
+   The Software may be used only by (a) the Holder and (b) the people the Holder authorizes in writing
+   ("Authorized Users"), only for personal, non-commercial, non-profit purposes, and only on devices
+   they own or control.
+
+4. RESTRICTIONS
+   Without the Holder's prior written permission you may NOT:
+   a) copy or reproduce the Software, except one backup copy and the temporary copies that are
+      technically necessary to run it;
+   b) modify, adapt, translate, extend or create derivative works of the Software or any part of it;
+   c) distribute, publish, sell, rent, lend, sublicense, host, upload to an app store or otherwise
+      make the Software available to third parties, in whole or in part, free of charge or for a fee;
+   d) use the Software, its name, logo, icon, artwork or designs for any commercial purpose or in
+      any way that suggests that you are, or are endorsed by, the Holder;
+   e) reverse engineer, decompile or disassemble the Software, or try to obtain its source code
+      when it is not provided to you, except to the extent that the law expressly allows it despite
+      this restriction;
+   f) remove or alter copyright, license or attribution notices;
+   g) bypass any technical protection of the Software;
+   h) use the Software or its content (including artwork, texts and 3D designs) to train, test or
+      improve machine-learning or artificial-intelligence models, or collect it automatically in bulk.
+
+5. RIGHTS THAT CANNOT BE WAIVED
+   Nothing in this license limits the rights that the law grants to lawful users of software and that
+   cannot be excluded by contract (for example, under Spanish Real Decreto Legislativo 1/1996, article
+   100, and Directive 2009/24/EC: making a necessary backup copy, observing and studying how the
+   Software works, and decompiling it only for interoperability under the legal conditions).
+
+6. TERMINATION
+   Your permission to use the Software ends automatically if you breach this license. You must then
+   stop using the Software and delete all copies.
+
+7. NO WARRANTY
+   To the extent permitted by law, the Software is provided "as is", without warranty of any kind,
+   express or implied, including merchantability, fitness for a particular purpose and
+   non-infringement.
+
+8. LIMITATION OF LIABILITY
+   To the extent permitted by law, the Holder is not liable for any damage arising from the use of or
+   the inability to use the Software. Nothing in this license excludes liability that cannot be
+   excluded by law.
+
+9. GOVERNING LAW
+   This license is governed by Spanish law. Subject to any mandatory consumer rules, the courts of
+   the Holder's domicile in Spain have jurisdiction.
+
+10. PERMISSIONS
+   To ask for permission or a separate license, contact the Holder through https://botcamp.garciamendez.es.
